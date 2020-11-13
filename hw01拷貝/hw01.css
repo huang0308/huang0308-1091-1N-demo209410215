@@ -1,0 +1,33 @@
+* {
+    font-family: Microsoft JhengHei;
+  }
+
+  body {
+    background: url(./hw01.JPEG);
+    font-size: 20px;
+    background-size: cover;
+}
+
+.q1 {
+  background-color: rgb(99, 32, 105);
+  color: aliceblue;
+}
+
+.qq {
+  width: 130px;
+  background-color: rgb(243, 186, 102);
+}
+
+.q2 {
+  background-color: rgb(66, 78, 119);
+  color: azure;
+}
+
+.q3 {
+  background-color: rgb(144, 98, 165);
+}
+
+.q4 {
+  background-color: rgb(129, 79, 107);
+  color: aliceblue;
+}

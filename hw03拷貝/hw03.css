@@ -1,0 +1,27 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+  }
+  
+  body {
+    background-color: bisque;
+    font-size: 16px;
+   font-family: 微軟正黑體;
+   background-attachment: fixed; 
+  }
+  
+  .qq {
+    background-image: url("./85200f9e59bb06c035afecd2cbd1396a_t.jpg"); 
+    background-repeat: no-repeat; 
+    background-repeat: repeat; 
+  }
+
+  #container {
+    width: 90%;
+    border: 2px solid rgb(0, 0, 0);
+    margin: 20px auto;
+  }
+  
+ 
